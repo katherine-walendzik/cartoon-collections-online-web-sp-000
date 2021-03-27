@@ -3,7 +3,7 @@ def roll_call_dwarves(dwarves)
 end
 
 def summon_captain_planet(planeteer_calls)
-  # Your code here
+  planeteer_calls.map{|call| call.
 end
 
 def long_planeteer_calls# code an argument here
